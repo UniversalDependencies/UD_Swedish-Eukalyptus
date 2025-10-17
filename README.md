@@ -10,11 +10,13 @@
 
 # Acknowledgments
 
-...
+We thank Arianna Masciolini, Peter Ljunglöf, Joakim Nivre, Lars Ahrenberg and Lars Borin for useful advice and discussions.
 
 ## References
 
-* (citation)
+* Yvonne Adesam, Gerlof Bouma, Richard Johansson (2015): Defining the Eukalyptus forest – the Koala treebank of Swedish, in Proceedings of the 20th Nordic Conference of Computational Linguistics, NODALIDA 2015, May 11-13, 2015, Vilnius, Lithuania. Edited by Beáta Megyesi, pages 1-9
+
+* https://spraakbanken.gu.se/resurser/eukalyptus
 
 
 # Changelog
@@ -29,14 +31,14 @@ Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
-Genre: TO-BE-SPECIFIED
-Lemmas: manual native
-UPOS: manual native
+Genre: news fiction government blog wiki
+Lemmas: converted from manual
+UPOS: converted from manual
 XPOS: not available
-Features: manual native
-Relations: manual native
+Features: converted from manual
+Relations: converted from manual
 Contributors: Berdicevskis, Aleksandrs; Bouma, Gerlof
-Contributing: here
+Contributing: elsewhere
 Contact: aleksandrs.berdicevskis@gu.se
 ===============================================================================
 </pre>
