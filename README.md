@@ -1,12 +1,20 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/contributing/release_checklist.html#the-readme-file) for README guidelines) ...
-
+The Swedish-Eukalyptus treebank has been converted from Eukalyptus, a phrase-structure treebank of contemporary written Swedish. As of now, the conversion has not yet been finished, and no manual corrections have been done. 
 
 # Introduction
 
 ...
 
+# The original Eukalyptus
+
+# Conversion
+
+# Data split
+
+# Known problems
+
+# UD and Språkbanken
 
 # Acknowledgments
 
